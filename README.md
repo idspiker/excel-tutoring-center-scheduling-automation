@@ -21,3 +21,11 @@ on their grade and appointment date/time.
 | ExcelFiles| Holds an example Excel Workbook |
 | Data      | Holds example incoming data |
 | requirements.txt | Specifies the external dependencies required by the project |
+
+### External Dependencies
+###### pandas 1.4.2
+- github: [pandas github](https://github.com/pandas-dev/pandas)
+- docs: [pandas documentation](https://pandas.pydata.org/docs/)
+
+###### openpyxl 3.0.10
+- docs: [openpyxl documentation](https://openpyxl.readthedocs.io/en/stable/)
