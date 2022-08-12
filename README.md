@@ -13,3 +13,11 @@ on their grade and appointment date/time.
 - Master List: This page holds each student's name and grade.
 - Appointments: This page holds group appointment data.
 - Long Term Records: This page holds the idividual student appointment data that is emptied out of the In Tray.
+
+### Repository Structure
+| Component | Description |
+|-----------|-------------|
+| Scripts   | Holds the project's scripts |
+| ExcelFiles| Holds an example Excel Workbook |
+| Data      | Holds example incoming data |
+| requirements.txt | Specifies the external dependencies required by the project |
