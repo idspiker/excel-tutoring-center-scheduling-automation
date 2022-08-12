@@ -9,6 +9,7 @@ and students are grouped into groups of three or less for their appointments bas
 on their grade and appointment date/time.  
 
 ### Pages in the workbook
--In Tray: This page holds all of the student's individual appointment data (before grouping).
--Master List: This page holds each student's name and grade.
--Appointments: This page holds group appointment data.
+- In Tray: This page holds all of the student's individual appointment data (before grouping).
+- Master List: This page holds each student's name and grade.
+- Appointments: This page holds group appointment data.
+- Long Term Records: This page holds the idividual student appointment data that is emptied out of the In Tray.
